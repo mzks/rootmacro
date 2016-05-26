@@ -20,4 +20,4 @@ $(TARGET): $(OBJS)
 clean:
 	rm -rf $(TARGET)
 	rm -rf $(OBJS)
-
+	rm -rf *.root
