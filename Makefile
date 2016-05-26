@@ -1,4 +1,4 @@
-TARGET = fill
+TARGET = macro
 
 SRCS = $(TARGET).C
 OBJS = $(TARGET).o
